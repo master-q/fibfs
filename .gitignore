@@ -1,0 +1,11 @@
+.fibfs.ko.cmd
+.fibfs.mod.o.cmd
+.fibfs.o.cmd
+.tmp_versions/
+Module.symvers
+fibfs.ko
+fibfs.mod.c
+fibfs.mod.o
+fibfs.o
+modules.order
+mount/
